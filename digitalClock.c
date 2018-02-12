@@ -3,7 +3,6 @@
 
 #include<stdio.h>
 #include<unistd.h>
-#include<time.h>
 
 int main(){
 	int hour=0,min=0,sec=0;
